@@ -22,6 +22,6 @@ If you encounter a bug or would like to request a new feature, please [open an i
 
 ## Contact Us
 
-If you have any questions or would like to learn more about PaperWallet, please don't hesitate to [contact us](https://paperwallet.com/contact). We'd love to hear from you!
+If you have any questions or would like to learn more about PaperWallet, please don't hesitate to [contact us](https://paperwallet.tech/contact). We'd love to hear from you!
 
 Thank you for your interest in our project. We look forward to working with you!
